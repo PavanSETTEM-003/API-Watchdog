@@ -109,3 +109,14 @@ To set up and run the project locally, follow the steps below:
     python main.py
     ```
 
+### Project Workflow and Demo
+
+#### Flowchart
+
+![flowchart Final Solid](https://github.com/PavanSETTEM-003/API-Watchdog/assets/88257205/9e6fb127-8c76-4e98-9b2f-76736410200c)
+
+![Final Sequence Solid](https://github.com/PavanSETTEM-003/API-Watchdog/assets/88257205/07c0b916-fccb-4438-8424-b892c5b37962)
+
+
+
+
